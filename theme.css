@@ -49,8 +49,8 @@
   --background-secondary: #191621;
   --background-secondary-alt: #0d0b12;
   --text-normal: #bebebe;
-  --text-accent: #ff0000;
-  --text-sub-accent: #ff0000;
+  --text-accent: #0fb6d6;
+  --text-sub-accent: #f4569d;
   --text-dim: #45aaff;
   --text-faint: #7aa2f7;
   --text-title-h1: var(--text-accent);
@@ -58,7 +58,7 @@
   --text-title-h3: #cbdbe5;
   --text-title-h4: #cbdbe5;
   --text-title-h5: #cbdbe5;
-  --text-link: #ff0000;
+  --text-link: #b4b4b4;
   --text-a: #6bcafb;
   --text-a-hover: #6bcafb;
   --text-mark: #263d92;
