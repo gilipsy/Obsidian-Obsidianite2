@@ -763,7 +763,7 @@ a,
 .cm-hmd-internal-link,
 .cm-link {
   text-decoration: none !important;
-  color: var(--text-normal);
+  color: var(--text-accent);
   position: relative;
   z-index: 1;
 }
