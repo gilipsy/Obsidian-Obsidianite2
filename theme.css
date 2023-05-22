@@ -717,7 +717,7 @@ cm-s-obsidian span.cm-link:not(.cm-formatting-link) .cm-underline {
 
 .internal-link,
 .external-link {
-  color: var(--text-normal);
+  color: var(--text-accent);
   background-position: 0 100%;
   background-repeat: repeat-x;
   background-size: 1px 1px;
