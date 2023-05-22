@@ -802,7 +802,7 @@ a:hover,
 }
 
 .cm-s-obsidian span.cm-hashtag:hover {
-  text-decoration-line: underline;
+  text-decoration-line: none;
   text-decoration-color: var(--text-accent);
 }
 
@@ -828,7 +828,7 @@ a.tag:hover {
   border-color: var(--text-accent);
   opacity: 1;
   background-color: var(--tag-background) !important;
-  text-decoration: underline !important;
+  text-decoration: none !important;
   text-decoration-color: var(--text-accent);
 }
 
